@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+Python310/
+*.bat
 .Python
 build/
 develop-eggs/
