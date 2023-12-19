@@ -34,7 +34,7 @@ Below is the graph showing the data points (in blue) and the linear regression l
 
 
 ### Getting Started
-To run this project, clone the repository and execute the main script:
+To run this model, clone the repository and execute the script file:
 
 ```cmd
 git clone https://github.com/Ioannis-Orkos/Machine-Learning.git
@@ -42,7 +42,11 @@ cd Machine-Learning
 python src\linear-regression.py
 ```
 
+To  test the functionality of the model, run the unit tests provided in the [`tests`](./tests) directory:
 
+```bash
+python tests\\test_linear_regression.py
+```
 
 
 
